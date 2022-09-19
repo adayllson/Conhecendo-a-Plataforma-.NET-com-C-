@@ -1,0 +1,15 @@
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\bin\Debug\net6.0\Sintaxe e Indentação.exe
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\bin\Debug\net6.0\Sintaxe e Indentação.deps.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\bin\Debug\net6.0\Sintaxe e Indentação.runtimeconfig.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\bin\Debug\net6.0\Sintaxe e Indentação.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\bin\Debug\net6.0\Sintaxe e Indentação.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.csproj.AssemblyReference.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.AssemblyInfoInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.AssemblyInfo.cs
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.csproj.CoreCompileInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\refint\Sintaxe e Indentação.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\Sintaxe e Indentação.genruntimeconfig.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Sintaxe e Indentacao\obj\Debug\net6.0\ref\Sintaxe e Indentação.dll

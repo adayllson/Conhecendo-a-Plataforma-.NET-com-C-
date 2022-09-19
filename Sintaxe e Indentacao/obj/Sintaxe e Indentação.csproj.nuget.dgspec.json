@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentação\\Sintaxe e Indentação.csproj": {}
+    "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentacao\\Sintaxe e Indentação.csproj": {}
   },
   "projects": {
-    "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentação\\Sintaxe e Indentação.csproj": {
+    "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentacao\\Sintaxe e Indentação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentação\\Sintaxe e Indentação.csproj",
+        "projectUniqueName": "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentacao\\Sintaxe e Indentação.csproj",
         "projectName": "Sintaxe e Indentação",
-        "projectPath": "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentação\\Sintaxe e Indentação.csproj",
+        "projectPath": "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentacao\\Sintaxe e Indentação.csproj",
         "packagesPath": "C:\\Users\\Adailson\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentação\\obj\\",
+        "outputPath": "D:\\Repositórios\\Bootcamp Pottencial .NET\\Conhecendo a Plataforma .NET com C#\\Conhecendo-a-Plataforma-.NET-com-C-\\Sintaxe e Indentacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
