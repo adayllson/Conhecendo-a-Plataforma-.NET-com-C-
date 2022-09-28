@@ -1,0 +1,12 @@
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\2º Parte\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll
