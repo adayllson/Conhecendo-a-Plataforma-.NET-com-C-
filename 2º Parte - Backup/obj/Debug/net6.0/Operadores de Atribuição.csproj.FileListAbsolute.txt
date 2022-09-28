@@ -1,0 +1,15 @@
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\bin\Debug\net6.0\Operadores de Atribuição.exe
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\bin\Debug\net6.0\Operadores de Atribuição.deps.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\bin\Debug\net6.0\Operadores de Atribuição.runtimeconfig.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\bin\Debug\net6.0\Operadores de Atribuição.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\bin\Debug\net6.0\Operadores de Atribuição.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.csproj.AssemblyReference.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.AssemblyInfoInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.AssemblyInfo.cs
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.csproj.CoreCompileInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\refint\Operadores de Atribuição.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\Operadores de Atribuição.genruntimeconfig.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\Operadores de Atribuição\obj\Debug\net6.0\ref\Operadores de Atribuição.dll
