@@ -140,7 +140,8 @@ while(true)
 
         default:
             Console.WriteLine("Opção Inválida");
-            break;
             Console.Clear();
+            break;
+            
     }
 }
