@@ -1,5 +1,8 @@
 ﻿using ExemploFundamentos.Common.Models;
 
+
+
+
 List<string> listaString = new List<string>();
 
 listaString.Add("SP");
@@ -164,7 +167,7 @@ foreach(string item in listaString)
 
 // while(true)
 // {
-    
+
 //     Console.WriteLine("Digite a sua opção:");
 //     Console.WriteLine("1 - Cadastrar Cliente");
 //     Console.WriteLine("2 - Buscar Cliente");
@@ -196,6 +199,6 @@ foreach(string item in listaString)
 //             Console.WriteLine("Opção Inválida");
 //             Console.Clear();
 //             break;
-            
+
 //     }
 // }
