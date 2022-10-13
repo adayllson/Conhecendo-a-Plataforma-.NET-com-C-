@@ -1,8 +1,6 @@
 ﻿using ExemploFundamentos.Common.Models;
 
 
-
-
 List<string> listaString = new List<string>();
 
 listaString.Add("SP");
