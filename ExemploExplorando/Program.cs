@@ -2,22 +2,66 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
-DateTime dataAtual = DateTime.Now;
 
-List<Venda> listaVendas = new List<Venda>();
+// var tipoAnonimo = new { Nome = "Adailson", Sobrenome = "Almeida", Altura = 1.80 };
 
-Venda v1 = new Venda(1, "Material de escritório", 25.00M, dataAtual);
-Venda v2 = new Venda(2, "Licença de Software", 110.00M, dataAtual);
+// Console.WriteLine("Nome: " + tipoAnonimo.Nome);
+// Console.WriteLine("Sobrenome: " + tipoAnonimo.Sobrenome);
+// Console.WriteLine("Altura: " + tipoAnonimo.Altura);
 
-listaVendas.Add(v1);
-listaVendas.Add(v2);
 
-string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
 
-File.WriteAllText("Arquivos/vendas.json", serializado);
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
 
-Console.WriteLine(serializado);
- 
+var listaAnonimo = listaVenda.Select(x => new { x.Produto, x.Preco });
+
+foreach(var venda in listaAnonimo)
+{
+    Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
+}
+
+// foreach (Venda venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " + 
+//                       $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}" + 
+//                       $" {(venda.Desconto.HasValue ? $"Desconto de: {venda.Desconto}" : "")}");
+// }
+
+
+// //Variável booleana aceitando o valor nulo.
+// bool? desejaReceberEmail = null;
+
+// //Estrutura condicional que verifica se o valor é diferente de nulo ou se é verdadeiro. 
+// if (desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+// {
+//     Console.WriteLine("O usuário optou por receber o email.");
+// }
+// else
+// {
+//     Console.WriteLine("O usuário não respondeu ou optou por não receber email.");
+// }
+
+
+
+
+
+// DateTime dataAtual = DateTime.Now;
+
+// List<Venda> listaVendas = new List<Venda>();
+
+// Venda v1 = new Venda(1, "Material de escritório", 25.00M, dataAtual);
+// Venda v2 = new Venda(2, "Licença de Software", 110.00M, dataAtual);
+
+// listaVendas.Add(v1);
+// listaVendas.Add(v2);
+
+// string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+// File.WriteAllText("Arquivos/vendas.json", serializado);
+
+// Console.WriteLine(serializado);
+
 
 // int numero = 20;
 // bool ehPar = false;
