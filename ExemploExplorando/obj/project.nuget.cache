@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Bmhpd+QbPbTNIfBg78w2kcokryY070n5lkTov1EujQZ41ZyZA0XF+jIEqiRh4l5ZPLXwB/vE26jN56yxY5DBAw==",
+  "dgSpecHash": "EinzFq4LOpZgn7a0e0vdCgaV3gm3oUlesXB7989BMQ3H9P946uCoriIwOQvV7SvpmWMY+keT8NOVH693d74FXw==",
   "success": true,
-  "projectFilePath": "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
+  "projectFilePath": "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adailson\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

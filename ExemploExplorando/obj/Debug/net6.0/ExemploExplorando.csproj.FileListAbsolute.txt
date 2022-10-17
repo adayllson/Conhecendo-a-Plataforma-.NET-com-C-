@@ -15,6 +15,7 @@ C:\Users\Adailson\Videos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.ge
 C:\Users\Adailson\Videos\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
 C:\Users\Adailson\Videos\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Adailson\Videos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Repositórios\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
 C:\Repositórios\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
 C:\Repositórios\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
@@ -32,3 +33,22 @@ C:\Repositórios\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug
 C:\Repositórios\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
 C:\Repositórios\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
 C:\Repositórios\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+=======
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+>>>>>>> 831164bb5b77b1f98ab6588116a23b60545331aa

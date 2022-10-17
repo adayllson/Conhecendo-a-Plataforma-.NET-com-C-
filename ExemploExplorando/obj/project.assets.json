@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectPath": "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
       "packagesPath": "C:\\Users\\Adailson\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\obj\\",
+      "outputPath": "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adailson\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -112,5 +112,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
