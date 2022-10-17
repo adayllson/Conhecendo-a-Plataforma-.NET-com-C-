@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectPath": "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\ExemploExplorando.csproj",
         "packagesPath": "C:\\Users\\Adailson\\.nuget\\packages\\",
-        "outputPath": "c:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\obj\\",
+        "outputPath": "C:\\Repositórios\\Conhecendo-a-Plataforma-.NET-com-C-\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adailson\\AppData\\Roaming\\NuGet\\NuGet.Config"
