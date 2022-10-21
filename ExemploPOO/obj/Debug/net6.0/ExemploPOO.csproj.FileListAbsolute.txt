@@ -13,3 +13,18 @@ C:\Users\Adailson\Videos\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
 C:\Users\Adailson\Videos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
 C:\Users\Adailson\Videos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
 C:\Users\Adailson\Videos\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+D:\Repositórios\Bootcamp Pottencial .NET\Conhecendo a Plataforma .NET com C#\Conhecendo-a-Plataforma-.NET-com-C-\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll

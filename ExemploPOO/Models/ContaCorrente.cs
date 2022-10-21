@@ -10,7 +10,7 @@ namespace ExemploPOO.Models
         public ContaCorrente(int numeroConta, decimal saldoInical)
         {
             NumeroConta = numeroConta;
-            saldoInical = saldo;
+            saldo = saldoInical;
         }
         public int NumeroConta { get; set; }
         private decimal saldo;
@@ -27,6 +27,11 @@ namespace ExemploPOO.Models
                 Console.WriteLine("Saldo indisponível.");
             }
             
+        }
+
+        public void ExibirSaldo()
+        {
+            Console.WriteLine($"Seu saldo disponível é: {saldo}");
         }
     }
 }
