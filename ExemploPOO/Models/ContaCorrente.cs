@@ -7,10 +7,10 @@ namespace ExemploPOO.Models
 {
     public class ContaCorrente
     {
-        public ContaCorrente(int numeroConta, decimal saldoInical)
+        public ContaCorrente(int numeroConta, decimal saldoInicial)
         {
             NumeroConta = numeroConta;
-            saldo = saldoInical;
+            saldo = saldoInicial;
         }
         public int NumeroConta { get; set; }
         private decimal saldo;
