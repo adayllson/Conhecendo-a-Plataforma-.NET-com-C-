@@ -8,13 +8,21 @@ namespace ExemploPOO.Models
 {
     public class Pessoa
     {
-       
+        //Método construtor sem parâmetro, nos permite chamar sem passar valor algum.
+        public Pessoa()
+        {
+            
+        }
+        public Pessoa(string nome)
+        {
+            Nome = nome;
+        }
         public string Nome { get; set; }
         public int Idade { get; set; }
-
-        public void Apresentar()
+        public string Email { get; set; }
+        public virtual void Apresentar()
         {
-            Console.WriteLine($"Olá, me chamo {Nome} e tenho {Idade} anos!");
+            Console.WriteLine($"Olá, me chamo {Nome}, tenho {Idade} anos e meu email é {Email}!");
         }
     }
 }

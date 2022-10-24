@@ -1,20 +1,29 @@
 ﻿using ExemploPOO.Models;
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Adailson";
+Corrente c = new Corrente();
+c.Creditar(500);
+c.ExibirSaldo();
+
+
+
+Pessoa p1 = new Pessoa("Adailson");
 p1.Idade = 31;
+p1.Email = "adayllson.almeida@gmail.com";
 p1.Apresentar();
 
-ContaCorrente c1 = new ContaCorrente(123, 1000);
+// ContaCorrente c1 = new ContaCorrente(123, 1000);
 
-c1.ExibirSaldo();
-c1.Sacar(500);
-c1.ExibirSaldo();
+// c1.ExibirSaldo();
+// c1.Sacar(500);
+// c1.ExibirSaldo();
 
-Aluno a1 = new Aluno("Monira", 26, 9.5);
+Aluno a1 = new Aluno("Monira");
+a1.Idade = 26;
 a1.Apresentar();
 
-Professor pf = new Professor("Pedro", 0, 10000);
+Professor pf = new Professor("Pedro");
+pf.Idade = 0;
+pf.Salario = 10000;
 pf.Apresentar();
 
 
