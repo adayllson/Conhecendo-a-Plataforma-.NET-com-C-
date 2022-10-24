@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace ExemploPOO.Models
 {
+        
     public class Professor : Pessoa
     {
         //Método construtor sem parâmetro, nos permite chamar sem passar valor algum.
